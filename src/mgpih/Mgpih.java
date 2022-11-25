@@ -16,6 +16,7 @@ public class Mgpih {
      */
     public static void main(String[] args) {
         System.out.println("Version master");
+        System.out.println("modificacion 1 master");
     }
     
 }
