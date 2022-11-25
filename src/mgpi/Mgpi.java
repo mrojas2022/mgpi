@@ -16,6 +16,7 @@ public class Mgpi {
      */
     public static void main(String[] args) {
         System.out.println("Bienvenidos alumnos MGPI");
+        System.out.println("Linea base 0");
     }
     
 }
